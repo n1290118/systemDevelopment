@@ -1,0 +1,13 @@
+INDEX VERSION 1.131
+C:\JavaLang\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3281726910.index
+\SampleSQL\src
+C:\JavaLang\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\934458912.index
+\WwwGame\src
+C:\JavaLang\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2130305096.index
+\FortuneSlip\src
+C:\JavaLang\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1877467299.index
+\AzureTest\src
+C:\JavaLang\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3480620502.index
+\WwwGame\src
+C:\JavaLang\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2893850910.index
+\GetPost\src

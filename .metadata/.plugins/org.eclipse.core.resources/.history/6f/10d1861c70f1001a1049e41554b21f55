@@ -1,0 +1,5 @@
+package jp.as.isc.cloud;
+
+public class Member {
+
+}

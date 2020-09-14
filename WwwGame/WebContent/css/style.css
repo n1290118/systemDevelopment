@@ -1,0 +1,35 @@
+@charset "UTF-8";
+body {
+	width: 500px;
+	text-align: center;
+}
+h1 {
+	border-left: 20px solid #669999;
+	border-right: 20px solid #669999;
+	padding: 10px 8px 8px 10px;
+	background-color: #dddddd;
+	text-align: center;
+}
+.box {
+	width: 480px;
+	border: 10px #dddddd solid;
+	margin-bottom: 20px;
+}
+dl {
+	line-height: 2em;
+	padding: 12px
+}
+dt {
+	width: 70px;
+	padding: 3px;
+	font-weight: bold;
+}
+dd {
+	padding: 3px 3px 3px 80px;
+	margin-top: -2.5em;
+}
+input {
+	width: 96%;
+	padding: 4px;
+	font-size: 150%;
+}
